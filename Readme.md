@@ -5,4 +5,4 @@ https://tproger.ru/translations/understanding-async-await-in-javascript/
 
 <b>Иллюстративное введение в теорию графов и её применение</b> https://proglib.io/p/graph-theory/
 
-<b>Таблица символов Юникода®/b> https://unicode-table.com/ru/
+<b>Таблица символов Юникода® </b> https://unicode-table.com/ru/
